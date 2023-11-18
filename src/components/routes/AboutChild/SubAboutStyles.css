@@ -1,0 +1,17 @@
+.about-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    /* margin-top: 30%; */
+}
+.sub-container{
+    width: 90%;
+    margin-top: 50px;
+    line-height: 2rem;
+    word-spacing: 0.4rem;
+}
+.sub-container h2{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
